@@ -1,4 +1,4 @@
-[![Mylenna's stats](https://github-readme-stats.vercel.app/api/?username=mylennabra)](https://github.com/mylennabra/mylennabra)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mylennabra)](https://github.com/mylennabra/mylennabra)
 
