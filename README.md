@@ -25,7 +25,7 @@
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="50px" title="CSS3">
   <img src="https://www.beabadohtml.com.br/midias/imagens/js.png" height="50px" title="JavaScript">
   <img src="https://user-images.githubusercontent.com/74362841/153612012-11b9973d-d6dc-4acb-b1a9-ae4c3052387a.png" height="49px" title="C">
-  <img src="https://user-images.githubusercontent.com/74362841/156067447-d6c146f6-0472-4a5b-a55b-dcd8126fe9dc.png" height="49px" title="SASS">
+  <img src="https://user-images.githubusercontent.com/74362841/156068480-6b323a4d-ccb1-4169-8b2c-ed5e92f13cf9.png" height="49px" title="SASS">
 
     
     
