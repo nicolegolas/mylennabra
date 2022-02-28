@@ -17,11 +17,17 @@
 </div>
       
 <hr/>
-  <h3 font-color="#2f80ed">LINGUAGENS E CONHECIMENTOS <img src="https://user-images.githubusercontent.com/74362841/153605718-bf001f00-af57-44f3-b9b3-d8a01c67e8a9.gif" height="20px"><h3>
+
+    
+<div align="center">
+    <h3 font-color="#2f80ed">LINGUAGENS E CONHECIMENTOS <img src="https://user-images.githubusercontent.com/74362841/153605718-bf001f00-af57-44f3-b9b3-d8a01c67e8a9.gif" height="20px"><h3>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" height="50px" title="HTML5">
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="50px" title="CSS3">
   <img src="https://www.beabadohtml.com.br/midias/imagens/js.png" height="50px" title="JavaScript">
   <img src="https://user-images.githubusercontent.com/74362841/153612012-11b9973d-d6dc-4acb-b1a9-ae4c3052387a.png" height="49px" title="C">
+  <img src="https://user-images.githubusercontent.com/74362841/156067447-d6c146f6-0472-4a5b-a55b-dcd8126fe9dc.png" height="49px" title="SASS">
+
     
     
  ![Snake animation](https://github.com/mylennabra/mylennabra/blob/output/github-contribution-grid-snake.svg)
+      </div>
