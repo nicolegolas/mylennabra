@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/74362841/153601628-d6039d11-13ce-44f4-8785-35d767e982e3.gif" height="30px">
   <a href = "mailto:mylennabra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img src="https://user-images.githubusercontent.com/74362841/153601628-d6039d11-13ce-44f4-8785-35d767e982e3.gif" height="30px">
-  <a href="https://discord.gg/lolarilarilo#8906f" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/lolarilarilo#8906" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
       
 <hr/>
